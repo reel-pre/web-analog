@@ -1,4 +1,6 @@
-React analog stick demo.
+# React analog stick demo.  
+![Analog stick](img/stick_gif.gif?raw=true "Analog stick")
+
 
 A demo for implementing react analog stick.  
 Run `npm start` to start the project.
